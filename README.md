@@ -1,5 +1,3 @@
 Official implementation of work "Graph-induced Syntax and Semantic Separation in Variational AutoEncoders"
 
-
-
-Project structure:
+![model overview](overview.png)
