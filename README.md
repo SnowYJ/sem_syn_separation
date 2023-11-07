@@ -24,5 +24,9 @@ fuse_way = "add_syn_Q_sem_KV"
 # add_syntax_query
 # fuse_syntax_query
 # fuse_syn_Q_sem_KV
+
+token_level = 'subword' # 'char_add_latex_tokens_without_var' for mathematical expression, 'subword' for natural language 
+graph_type = 'TransformerConv' # GAT, GCN, GraphSAGE, TransformerConv
+exp = 'natural' # symbol or natural
 ```
 ***
