@@ -1,5 +1,7 @@
 Implementation of work "Graph-induced Syntax and Semantic Separation in Variational AutoEncoders"
 
+![result](language_modelling_table.png)
+
 ![encoding overview](sem_syntax.png)
 
 ***
