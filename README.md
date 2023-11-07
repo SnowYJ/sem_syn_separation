@@ -34,3 +34,19 @@ running attention heatmap visualization:
 
 1. attention_visualization_optimus(best_setup).py
 ***
+
+
+packages:
+
+text_autoencoders are modified from 
+
+```latex
+@inproceedings{shen2020educating,
+  title={Educating text autoencoders: Latent representation guidance via denoising},
+  author={Shen, Tianxiao and Mueller, Jonas and Barzilay, Regina and Jaakkola, Tommi},
+  booktitle={International Conference on Machine Learning},
+  pages={8719--8729},
+  year={2020},
+  organization={PMLR}
+}
+```
