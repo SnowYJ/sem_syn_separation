@@ -38,7 +38,7 @@ running attention heatmap visualization:
 
 packages:
 
-text_autoencoders are modified from 
+**text_autoencoders** is modified from:
 
 ```latex
 @inproceedings{shen2020educating,
@@ -48,5 +48,16 @@ text_autoencoders are modified from
   pages={8719--8729},
   year={2020},
   organization={PMLR}
+}
+```
+**optimus** is modified from:
+
+```latex
+@inproceedings{li2020optimus,
+  title={Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space},
+  author={Li, Chunyuan and Gao, Xiang and Li, Yuan and Peng, Baolin and Li, Xiujun and Zhang, Yizhe and Gao, Jianfeng},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={4678--4699},
+  year={2020}
 }
 ```
