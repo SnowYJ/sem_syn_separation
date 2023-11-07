@@ -2,9 +2,10 @@ Implementation of work "Graph-induced Syntax and Semantic Separation in Variatio
 
 ![result](language_modelling_table.png)
 
+***
+
 ![encoding overview](sem_syntax.png)
 
-***
 running encoding baselines:
 
 1. train_optimus_disentangle_graph.py
@@ -15,7 +16,6 @@ running encoding baselines:
 
 ![decoding overview](overview.png)
 
-***
 running decoding baselines:
 
 1. train(evaluate)_optimus_separate_graph_syntax_constraint_gpt2.py
