@@ -29,4 +29,8 @@ token_level = 'subword' # 'char_add_latex_tokens_without_var' for mathematical e
 graph_type = 'TransformerConv' # GAT, GCN, GraphSAGE, TransformerConv
 exp = 'natural' # symbol or natural
 ```
+
+running attention heatmap visualization:
+
+1. attention_visualization_optimus(best_setup).py
 ***
