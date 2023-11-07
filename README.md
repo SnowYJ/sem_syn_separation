@@ -2,9 +2,10 @@ Implementation of work "Graph-induced Syntax and Semantic Separation in Variatio
 
 ![encoding overview](sem_syntax.png)
 
-“”“
-1. 
-”“”
+***
+running encoding baselines:
 
+1. 
+***
 
 ![decoding overview](overview.png)
