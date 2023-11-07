@@ -12,3 +12,17 @@ running encoding baselines:
 ***
 
 ![decoding overview](overview.png)
+
+***
+running decoding baselines:
+
+1. train(evaluate)_optimus_separate_graph_syntax_constraint_gpt2.py
+
+```python
+fuse_way = "add_syn_Q_sem_KV"
+# add_syn_Q_sem_KV
+# add_syntax_query
+# fuse_syntax_query
+# fuse_syn_Q_sem_KV
+```
+***
