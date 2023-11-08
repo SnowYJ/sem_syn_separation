@@ -37,6 +37,10 @@ running attention heatmap visualization:
 1. attention_visualization_optimus(best_setup).py
 ***
 
+Checkpoints:
+
+[Bert-TransCONV with the addition QKV injection training on explanatory sentences](https://drive.google.com/drive/folders/1x8bRgVL2w5Wg4bQxPVKDGX-Mnse-Ihsk?usp=sharing)
+
 Packages:
 
 **text_autoencoders** is modified from:
