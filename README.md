@@ -1,6 +1,4 @@
-Implementation of work "Graph-induced Syntax and Semantic Separation in Variational AutoEncoders"
-
-![result](language_modelling_table.png)
+Implementation of work "Graph-induced Syntax Injection in Variational AutoEncoders"
 
 ***
 
