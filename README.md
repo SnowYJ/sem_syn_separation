@@ -1,6 +1,6 @@
 Implementation of work "Graph-induced Syntax Injection in Variational AutoEncoders"
 
-[![License](https://github.com/SnowYJ/sem_syn_separation)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ***
 
