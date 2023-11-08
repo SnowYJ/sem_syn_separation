@@ -35,8 +35,7 @@ running attention heatmap visualization:
 1. attention_visualization_optimus(best_setup).py
 ***
 
-
-packages:
+Packages:
 
 **text_autoencoders** is modified from:
 
