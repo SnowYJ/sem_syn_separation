@@ -1,5 +1,7 @@
 Implementation of work "Graph-induced Syntax Injection in Variational AutoEncoders"
 
+[![License](https://github.com/SnowYJ/sem_syn_separation)]
+
 ***
 
 ![encoding overview](sem_syntax.png)
