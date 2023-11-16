@@ -70,4 +70,10 @@ Packages:
 ## Citation:
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 ```latex
+@inproceedings{Zhang2023GraphInducedSS,
+  title={Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders},
+  author={Yingji Zhang and Marco Valentino and Danilo S. Carvalho and Ian Pratt-Hartmann and Andr'e Freitas},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:265213091}
+}
 ```
