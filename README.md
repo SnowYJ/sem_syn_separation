@@ -1,8 +1,3 @@
-<!---Implementation of work "[Graph-induced Syntactic-Semantic Spaces in Transformer-based Variational AutoEncoders](https://arxiv.org/abs/2311.08579)"
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
---->
-***
 
 ![encoding overview](sem_syntax.png)
 
@@ -62,15 +57,3 @@ Packages:
   year={2020}
 }
 ```
-<!---
-## Citation:
-Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
-```latex
-@inproceedings{Zhang2023GraphInducedSS,
-  title={Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders},
-  author={Yingji Zhang and Marco Valentino and Danilo S. Carvalho and Ian Pratt-Hartmann and Andr'e Freitas},
-  year={2023},
-  url={https://api.semanticscholar.org/CorpusID:265213091}
-}
-```
---->
