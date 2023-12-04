@@ -1,7 +1,7 @@
-Implementation of work "[Graph-induced Syntactic-Semantic Spaces in Transformer-based Variational AutoEncoders](https://arxiv.org/abs/2311.08579)"
+<!---Implementation of work "[Graph-induced Syntactic-Semantic Spaces in Transformer-based Variational AutoEncoders](https://arxiv.org/abs/2311.08579)"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
+--->
 ***
 
 ![encoding overview](sem_syntax.png)
@@ -37,10 +37,6 @@ running attention heatmap visualization:
 1. attention_visualization_optimus(best_setup).py
 ***
 
-Checkpoints:
-
-[Bert-TransCONV with the addition QKV injection training on explanatory sentences](https://drive.google.com/drive/folders/1x8bRgVL2w5Wg4bQxPVKDGX-Mnse-Ihsk?usp=sharing)
-
 Packages:
 
 **text_autoencoders** is modified from:
@@ -66,7 +62,7 @@ Packages:
   year={2020}
 }
 ```
-
+<!---
 ## Citation:
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
 ```latex
@@ -77,3 +73,4 @@ Please consider citing our paper in your publications if the project helps your 
   url={https://api.semanticscholar.org/CorpusID:265213091}
 }
 ```
+--->
