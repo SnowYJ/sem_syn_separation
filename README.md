@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders [link](https://arxiv.org/abs/2311.08579)
+### NAACL2024 Findings: Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders [link](https://arxiv.org/abs/2311.08579)
 ```latex
 @article{zhang2023graph,
   title={Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders},
